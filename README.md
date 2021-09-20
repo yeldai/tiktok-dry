@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+An attempt on a Tiktok page facities with a front & backend abilities. Heruko and Mongo DB has been employed in this project. It needs obvious enrichments on the front-side but is a good trial on merging the front and backedn in a project.
+
 ## Available Scripts
 
 In the project directory, you can run:
